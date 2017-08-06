@@ -5,7 +5,7 @@ body {
 }
 
 .center {
-:}
+}
 
 .text-big {
     font-size: 300%;
@@ -13,6 +13,7 @@ body {
 
 .bold {
     font-weight: bold;
+    front-colour:light;
 }
 
 .img-medium {
