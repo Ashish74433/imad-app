@@ -1,11 +1,11 @@
 body {
     font-family: sans-serif;
-    background-color: darkred;
+    background-color: lightgreen;
     margin-top: 75px;
 }
 
 .center {
-    text-align normal;
+    text-align normal:
 }
 
 .text-big {
@@ -17,6 +17,6 @@ body {
 }
 
 .img-medium {
-    height: 2000px;
+    height: 200px;
 }
 
