@@ -1,2 +1,1 @@
-console.log('Loaded!');
-console.lo ('text')
+console.log('Loaded')
