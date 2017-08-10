@@ -1,7 +1,15 @@
 var express = require('express');
 var morgan = require('morgan');
 var path = require('path');
-
+var confrg{
+    user;user :'ashishkrishnacs';
+    database :'ashishkrishnacs';
+    host:db.imad.hasura.app.io;
+    port:8080
+    password: process.env DB_password
+    
+    
+}
 var app = express();
 app.use(morgan('combined'));
 
