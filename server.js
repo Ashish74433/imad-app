@@ -5,8 +5,8 @@ var confrg{
     user;user :'ashishkrishnacs';
     database :'ashishkrishnacs';
     host:db.imad.hasura.app.io;
-    port:8080
-    password: process.env DB_password
+    port:8080;
+    password: process.env DB_password;
     
     
 }
